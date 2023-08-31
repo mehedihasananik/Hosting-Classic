@@ -1,10 +1,10 @@
 import "./App.css";
-import HostingClassic from "./components/HostingClassic/HostingClassic";
+import AboutUs from "./components/HostingClassic/AboutUs";
 
 function App() {
   return (
     <>
-      <HostingClassic />
+      <AboutUs />
     </>
   );
 }
