@@ -23,7 +23,7 @@ function App() {
       <Pricing />
       <Support />
       <AboutUs />
-      {/* <Faq /> */}
+      <Faq />
       <Footer />
     </>
   );
